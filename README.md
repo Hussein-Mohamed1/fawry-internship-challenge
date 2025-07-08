@@ -8,6 +8,10 @@ This project is a solution for the Fawry Quantum Internship Challenge.
 - Cart and checkout functionality with validation.
 - Shipping service integration.
 
+## Screenshot
+
+![App Screenshot](testApp.png)
+
 ## How to Run
 Compile and run the `Main.java` file.
 
